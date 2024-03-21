@@ -1,0 +1,35 @@
+{
+  "name": "easyopera",
+  "version": "1.2.0",
+  "description": "Generate discord promo link with opera",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashibre/EasyOpera.git"
+  },
+  "author": "flem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashibre/EasyOpera/issues"
+  },
+  "homepage": "https://github.com/ashibre/EasyOpera#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "fs": "^0.0.1-security",
+    "readline": "^1.3.0",
+    "superagent": "^8.1.2"
+  },
+  "keywords": [
+    "Nitro",
+    "discord",
+    "opera",
+    "promo",
+    "generator",
+    "redeem",
+    "free",
+    "nitro"
+  ]
+}
