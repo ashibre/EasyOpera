@@ -13,7 +13,7 @@ Opera fix this you only can use one code per account, but im better and i have m
 ## Features 
 
 - ✅ Save & Generate Codes 
-- ✅ Opera Account creator (full)
+- ✅ Opera Account creator (full access )
 - ❌ Threads
 - ❌ Proxies Support
 
